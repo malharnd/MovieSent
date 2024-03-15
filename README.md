@@ -12,6 +12,9 @@
 ## Overview
 This project focuses on sentiment analysis of movie reviews using deep learning techniques. The goal is to classify movie reviews as positive or negative based on the sentiment expressed in the text. The analysis involves data preprocessing steps including normalization, stop words removal, and lemmatization, followed by the use of embedding techniques and LSTM (Long Short-Term Memory) neural networks for classification.
 
+## Dataset
+You can find the dataset used in this project on Kaggle. Click [here](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+
 ## Key Terms and Methodologies
 
 ### Data Preprocessing
